@@ -1,0 +1,2 @@
+﻿  Source.cpp
+c:\users\aidan\documents\vision\setup\project1\project1\source.cpp(5): fatal error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
